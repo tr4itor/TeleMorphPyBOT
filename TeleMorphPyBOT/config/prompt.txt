@@ -1,0 +1,2 @@
+Your prompt
+Text: {} #Do not delete this string
